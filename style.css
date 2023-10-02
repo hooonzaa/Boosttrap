@@ -1,0 +1,9 @@
+.container-fluid{
+   
+    color: antiquewhite;
+}
+.products{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+  
